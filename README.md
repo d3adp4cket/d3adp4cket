@@ -37,7 +37,7 @@ LANGUAGES
 └── C#                         [█████████░░░░░░] COMPETENT
 
 MINDSET
-└── Breaking Things            [███████████████] EXPERT
+└── Breaking Things            [████████████░░░] SOLID
 ```
 
 ---
@@ -47,10 +47,7 @@ MINDSET
 ```python
 interests = [
     "network reconnaissance",
-    "vulnerability research",
-    "low-level systems poking",
-    "protocol dissection",
-    "anything with a CVE attached",
+    "vulnerability research"
 ]
 
 motto = "If it has an attack surface, it has my attention."
@@ -88,7 +85,6 @@ motto = "If it has an attack surface, it has my attention."
 ## `> contact --options`
 
 ```
-[*] All comms encrypted, obviously.
 [*] Reach out if you're building something worth breaking.
 ```
 
@@ -103,7 +99,7 @@ motto = "If it has an attack surface, it has my attention."
 <div align="center">
 
 ```
-[ authorized personnel only — and even they should watch their back ]
+[ Enjoy life ]
 ```
 
 </div>
