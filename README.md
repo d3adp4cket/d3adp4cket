@@ -1,105 +1,46 @@
-```
-██████╗ ██████╗ ███████╗ █████╗ ██████╗ ██████╗ ██╗  ██╗ ██████╗██╗  ██╗███████╗████████╗
-██╔══██╗╚════██╗██╔════╝██╔══██╗██╔══██╗██╔══██╗██║  ██║██╔════╝██║ ██╔╝██╔════╝╚══██╔══╝
-██║  ██║ █████╔╝█████╗  ███████║██║  ██║██████╔╝███████║██║     █████╔╝ █████╗     ██║   
-██║  ██║ ╚═══██╗██╔══╝  ██╔══██║██║  ██║██╔═══╝ ╚════██║██║     ██╔═██╗ ██╔══╝     ██║   
-██████╔╝██████╔╝███████╗██║  ██║██████╔╝██║           ██║╚██████╗██║  ██╗███████╗   ██║   
-╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝           ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝   ╚═╝   
-```
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Systems+%26+Network+Engineer;Breaking+Things+Professionally;Python+%7C+C%23+%7C+Low-Level+Mayhem;If+it+runs%2C+it+can+be+broken.)
+# d3adp4cket
+
+**Systems & Network Engineer · Security-Minded · Open to Work**
+
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-4A90D9?style=flat-square)](mailto:)
 
 </div>
 
 ---
 
-```bash
-┌──(d3adp4cket㉿kali)-[~]
-└─$ whoami
-```
+### Expertise
 
-> Sys/Net engineer who prefers the offensive side of the fence.  
-> I build things to understand how to break them — and break things to understand how they were built.
+`Systems Engineering` &nbsp; `Network Engineering` &nbsp; `Infrastructure` &nbsp; `Vulnerability Assessment` &nbsp; `Network Monitoring` &nbsp; `Protocol Analysis` &nbsp;
 
 ---
 
-## `> skill_tree --list`
+### Stack
 
-```
-INFRASTRUCTURE
-├── Systems Engineering        [████████████░░░] SOLID
-└── Network Engineering        [████████████░░░] SOLID
-
-LANGUAGES
-├── Python                     [███████████░░░░] PROFICIENT
-└── C#                         [█████████░░░░░░] COMPETENT
-
-MINDSET
-└── Breaking Things            [████████████░░░] SOLID
-```
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=4A90D9)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0d1117?style=flat-square&logo=windows&logoColor=4A90D9)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=4A90D9)
+![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=4A90D9)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=4A90D9)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=4A90D9)
+![Cisco](https://img.shields.io/badge/Cisco-0d1117?style=flat-square&logo=cisco&logoColor=4A90D9)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=4A90D9)
 
 ---
 
-## `> interests --verbose`
-
-```python
-interests = [
-    "network reconnaissance",
-    "vulnerability research"
-]
-
-motto = "If it has an attack surface, it has my attention."
-```
-
----
-
-## `> tech_stack --dump`
+### GitHub Stats
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=00FF41)
-![C#](https://img.shields.io/badge/C%23-0a0a0a?style=for-the-badge&logo=csharp&logoColor=00FF41)
-![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=00FF41)
-![Wireshark](https://img.shields.io/badge/Wireshark-0a0a0a?style=for-the-badge&logo=wireshark&logoColor=00FF41)
-![Kali](https://img.shields.io/badge/Kali_Linux-0a0a0a?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
-![Bash](https://img.shields.io/badge/Bash-0a0a0a?style=for-the-badge&logo=gnubash&logoColor=00FF41)
-
-</div>
-
----
-
-## `> github --stats`
-
-<div align="center">
-
-![d3adp4cket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3adp4cket&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=cccccc)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d3adp4cket&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=cccccc)
-
-</div>
-
----
-
-## `> contact --options`
-
-```
-[*] Reach out if you're building something worth breaking.
-```
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-d3adp4cket-0a0a0a?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/d3adp4cket)
+![Stats](https://github-readme-stats.vercel.app/api?username=d3adp4cket&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4A90D9&icon_color=4A90D9&text_color=8b949e&hide=contribs,issues)
+&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3adp4cket&layout=compact&hide_border=true&bg_color=0d1117&title_color=4A90D9&text_color=8b949e)
 
 </div>
 
 ---
 
 <div align="center">
-
-```
-[ Enjoy life ]
-```
-
+<sub>Available for roles in infrastructure, network security, and systems engineering.</sub>
 </div>
