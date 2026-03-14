@@ -4,8 +4,6 @@
 
 **Systems & Network Engineer · Security-Minded · Open to Work**
 
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-4A90D9?style=flat-square)](mailto:)
-
 </div>
 
 ---
