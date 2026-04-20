@@ -2,17 +2,9 @@
 
 # d3adp4cket
 
-**Systems & Network Engineer · Security-Minded · Open to Work**
+**Systems & Network Engineer · Security-Minded**
 
 </div>
-
----
-
-### Expertise
-
-`Systems Engineering` &nbsp; `Network Engineering` &nbsp; `Infrastructure` &nbsp; `Vulnerability Assessment` &nbsp; `Network Monitoring` &nbsp; `Protocol Analysis` &nbsp;
-
----
 
 ### Stack
 
@@ -26,19 +18,3 @@
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=4A90D9)
 
 ---
-
-### GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=d3adp4cket&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4A90D9&icon_color=4A90D9&text_color=8b949e&hide=contribs,issues)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3adp4cket&layout=compact&hide_border=true&bg_color=0d1117&title_color=4A90D9&text_color=8b949e)
-
-</div>
-
----
-
-<div align="center">
-<sub>Available for roles in infrastructure, network security, and systems engineering.</sub>
-</div>
